@@ -16,7 +16,9 @@ Dans le repertoire, puis le fichier Connexion/getBdd.php, renseigner les identif
 
 vous pouvez ne pas ajouter le mot de passe si par defaut votre mot de passe est vide
 
-Ensuite, vous pouvez utiliser les methodes suivantes
+Ensuite, vous pouvez utiliser les methodes suivantes :
+<pre>
+</code>
   <?php
   /**
    * Created by Instantech.
@@ -277,3 +279,6 @@ Ensuite, vous pouvez utiliser les methodes suivantes
    * @return string
    */
   function purge($form_field);
+?>
+</code>
+</pre>
